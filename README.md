@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ali Hassan 👋
 
-<!--
-**owner-ali/owner-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ASP.NET Core
+* Node.js
+* React.js
+* Next.js
+* SQL Server
+* MongoDB
+* JavaScript
+
+### Featured Projects
+
+* Mian Tour & Travel
+* Zeeshan Mobile Store
+* Salwa Bakery Management System
+
+### Services
+
+* Full Stack Development
+* Web Development
+* API Development
+* Database Development
+
+### Contact
+
+LinkedIn: www.linkedin.com/in/ali-hassan-b8260730a
+
+
