@@ -89,9 +89,9 @@ I build scalable web applications, AI-powered solutions, Flutter apps, and busin
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 Email
+- 💼 LinkedIn            linkedin.com/in/alihassanfullstack/
+- 🌐 Portfolio           http://aliportfolio.freehosting.dev/
+- 📧 Email               alihassan532732@gmail.com
 
 ---
 
