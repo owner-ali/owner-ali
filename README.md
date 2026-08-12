@@ -1,102 +1,56 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Full Stack Developer • AI Automation Engineer • SaaS Builder</h3>
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-I build scalable web applications, AI-powered solutions, Flutter apps, and business automation systems that solve real-world problems.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:064e3b,100:22c55e&height=220&section=header&text=CodedByAli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20SaaS%20Builder&descAlignY=58&descSize=18" />
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Ali Hassan</h1>
 
-## 🚀 About Me
-
-- 💻 Full Stack Developer with experience in Web & Mobile Applications
-- 🤖 Passionate about AI Agents & Automation
-- 🌐 Building SaaS Platforms and Business Software
-- 📱 Flutter Mobile App Developer
-- 📚 Always learning new technologies and building useful products
-
----
-
-## 🧠 Philosophy
-
-> Software should solve problems, not create them.
-
-> Build products that people love, not just projects that look good.
-
----
-
-## 💼 My Skills
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
-</p>
-
-### DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
-</p>
-
-### Cloud & AI
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
-
----
-
-## 🚀 Current Projects
-
-- 🤖 AI Lead Generation System
-- 💼 CRM & ERP Software
-- 🏥 Hospital Management System
-- 🛒 POS & Inventory System
-- 📱 Flutter Applications
-- 🌐 Portfolio CMS
-
----
-
-## 📈 GitHub Stats
+<h3 align="center">
+  Full Stack Developer • AI Automation Engineer • SaaS Builder
+</h3>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+  <a href="https://codedbyali.site.je/">
+    <img src="https://img.shields.io/badge/Portfolio-CodedByAli-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/codedbyali/">
+    <img src="https://img.shields.io/badge/LinkedIn-CodedByAli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/owner-ali">
+    <img src="https://img.shields.io/badge/GitHub-owner--ali-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@officialcodedbyali">
+    <img src="https://img.shields.io/badge/YouTube-CodedByAli-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
+  I build scalable web applications, SaaS platforms, AI-powered solutions,
+  business management systems and automation software that solve real-world problems.
 </p>
-
----
-
-## 🌍 Connect With Me
-
-- 💼 LinkedIn            [linkedin.com/in/alihassanfullstack/](https://www.linkedin.com/in/alihassanfullstack/)
-- 🌐 Portfolio           http://aliportfolio.freehosting.dev/
-- 📧 Email               alihassan532732@gmail.com
-
----
 
 <p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
+  <img src="https://komarev.com/ghpvc/?username=owner-ali&label=Profile%20Views&color=22c55e&style=flat-square" />
 </p>
+
+---
+
+# 🚀 About Me
+
+I'm **Ali Hassan**, a Full Stack Developer focused on building practical,
+scalable and production-ready software.
+
+I enjoy turning business problems into complete digital solutions — from
+database architecture and backend APIs to modern frontend interfaces,
+integrations, automation and deployment.
+
+```text
+💻 Full Stack Development
+🤖 AI Automation & AI Applications
+🚀 SaaS Platforms
+💼 Custom Business Software
+📊 POS / ERP / CRM Systems
+📱 Flutter Applications
+🔌 REST API Development
+🗄️ Database Architecture
